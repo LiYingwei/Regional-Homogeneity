@@ -33,7 +33,7 @@ if you accept the [terms](http://academictorrents.com/details/5d6d0df7ed81efd49c
 
 We support generate adversarial examples with 3 clean trained models (Inception-{v3, v4}, Inception-Resnet-v2),
 and evaluate them by 3 ensemble adversarial trained models (ens3_inception_v3, ens4_inception_v3, ens_inception_resnet_v2).
-We will release more defense models that mentioned in the paper.
+We will release more defense models that are mentioned in the paper.
 We original download them from [here](https://github.com/tensorflow/models/tree/master/research/slim) and [here](https://github.com/tensorflow/models/tree/master/research/adv_imagenet_models)
 and then slightly modified the tensor name. You can download the modified checkpoints from **[HERE](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/yli286_jh_edu/Eb6l0vTS84pHpctEW8lT0I4BT6T8RhbDA-E1wvWuxd7Ccw?e=gyhmQt)**.
 
