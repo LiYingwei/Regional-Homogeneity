@@ -1,7 +1,7 @@
 # Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
 
 ## Introduction
-This repository contains the code for paper [Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses](https://arxiv.org/abs/1904.0????). 
+This repository contains the code for paper [Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses](https://arxiv.org/abs/1904.00979). 
 This paper shows that a simple universal perturbation can fool a series of state-of-the-art defenses.
 
 ## Usage
@@ -63,7 +63,7 @@ If you find the code useful, please consider citing the following paper.
     @article{li2019regional,
       title={Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses},
       author={Li, Yingwei and Bai, Song and Xie, Cihang and Liao, Zhenyu and Shen, Xiaohui and Yuille, Alan},
-      journal={arXiv preprint arXiv:1904.0????},
+      journal={arXiv preprint arXiv:1904.00979},
       year={2019}
     }
 
